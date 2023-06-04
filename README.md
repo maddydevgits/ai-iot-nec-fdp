@@ -30,6 +30,24 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <th>Activity Agenda</th>
     <th>Sample Code</th>
   </tr>
+  <tr>
+    <td>1</td>
+    <td>Reading DHT11 Data</td>
+    <td>ESP32 reads DHT11 Sensory Data</td>
+    <td><a href="https://github.com/maddydevgits/ai-iot-nec-fdp/blob/main/dht11-esp32.ino">Code Repo</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Building Logistic Regression</td>
+    <td>Applying Logistic Regression on Humidity Data</td>
+    <td><a href="https://github.com/maddydevgits/ai-iot-nec-fdp/blob/main/dataset_logistic_regression.ipynb">Code Repo</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Deploying on IoT Device </td>
+    <td>Deploying Logistic Regression on ESP32 to predict rainfall</td>
+    <td><a href="https://github.com/maddydevgits/ai-iot-nec-fdp/blob/main/ai-edge-iot-esp32.ino">Code Repo</td>
+  </tr>
 </table>
 
 # For questions
